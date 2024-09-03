@@ -1,0 +1,44 @@
+Supply Contract for Suspension Components, Brake Pads and Rotors, and Air Filters
+
+This Supply Contract is entered into on 01-09-2024 between:
+ABC Manufacturing Pvt. Ltd., a company incorporated under the laws of India, having its registered office at 123 Main Street, New Delhi, India (hereinafter referred to as the "Supplier 1");
+XYZ Automotive Pvt. Ltd., a company incorporated under the laws of India, having its registered office at 456 Park Avenue, Mumbai, India (hereinafter referred to as the "Purchaser").
+
+1. Goods
+The Supplier agrees to supply and the Purchaser agrees to purchase the following goods (hereinafter referred to as the "Goods"):
+Suspension Components: Various suspension parts as per specifications provided by the Purchaser.
+Brake Pads and Rotors: High-performance brake pads and rotors for automotive use.
+Air Filters: Engine air filters designed to meet OEM specifications.
+
+2. Price and Payment Terms
+2.1. The pricing for the Goods shall be as follows:
+Suspension Components: INR 700 per unit
+Brake Pads: INR 300 per set
+Rotors: INR 500 per unit
+Air Filters: INR 150 per unit
+2.2. The Purchaser shall pay the Supplier within 30 days of receipt of the invoice for the Goods delivered.
+
+3. Delivery
+3.1. The Supplier shall deliver the Goods to the Purchaser's designated location within 20 days of receiving the purchase order.
+3.2. The Supplier shall bear the shipment and delivery costs.
+
+4. Warranty
+The Supplier warrants that the Goods shall be free from defects in material and workmanship for a period of 24 months from the date of delivery.
+
+5. Indemnification
+The Supplier shall indemnify and hold harmless the Purchaser from and against any and all claims, damages, losses, and expenses arising out of or resulting from the supply of defective Goods.
+
+6. Contract Duration
+This Contract shall be valid for a period of 3 years from the date of signing, unless terminated earlier in accordance with the provisions of this Contract.
+
+7. Termination
+Either party may terminate this Contract by giving 60 days' written notice to the other party.
+
+8. Governing Law
+This Contract shall be governed by and construed in accordance with the laws of India.
+IN WITNESS WHEREOF, the parties hereto have caused this Contract to be executed by their duly authorized representatives on the date first written above.
+
+ABC Manufacturing Pvt. Ltd.
+(Supplier 1)
+XYZ Automotive Pvt. Ltd.
+(Purchaser)
