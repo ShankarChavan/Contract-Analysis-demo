@@ -1,0 +1,13 @@
+[project]
+name = "contract-analysis"
+version = "0.1.0"
+description = "This is demo contract analysis project with synthetic data"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-ai-inference>=1.0.0b4",
+    "fastapi>=0.112.2",
+    "pymupdf>=1.24.10",
+    "streamlit>=1.38.0",
+    "uvicorn>=0.30.6",
+]
